@@ -1,5 +1,2 @@
-This directory is version controlled by git.
+This repository contains code used for SIP.
 author: Sam Mansfield
-
-The directories version controlled are:
-  K&R
